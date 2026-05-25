@@ -4,13 +4,13 @@ A Python script that reads and displays student enrollment data from a JSON file
 
 ## Project Structure
 json-parser-lab/
-    data/
-       students.json
-    src/
-        parse_json.py
-    Dockerfile
-    README.md
-    .gitignore
+- data/
+    students.json
+- src/
+    parse_json.py
+- Dockerfile
+- README.md
+- .gitignore
 
 ## Requirements
 
